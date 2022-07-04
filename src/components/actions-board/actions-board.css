@@ -1,0 +1,5 @@
+.actions-board {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
